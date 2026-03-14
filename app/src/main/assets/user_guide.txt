@@ -1,0 +1,6 @@
+WELCOME TO THE BITS PILANI STUDENT GUIDE
+----------------------------------------
+1. Static files are read-only.
+2. Use 'res/raw' for files accessed via Resource ID.
+3. Use 'assets' for folder structures and path-based access.
+4. Large files belong in external storage.
