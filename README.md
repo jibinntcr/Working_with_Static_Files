@@ -32,7 +32,8 @@ Students should clone this repository to observe:
 2.  **Storage Selection:** Review the "Simple Rule"—use `res/raw` for fixed files and `assets` for flexible path-based resources.
 3.  **Code Implementation:** Study the `MainActivity.kt` to understand how the UI interacts with the underlying Android File System APIs.
 
----
+
 
 **Topic:** Working with the File System  
-**Next Session:** CS 11 - Android Databases (SQLite)
+
+
